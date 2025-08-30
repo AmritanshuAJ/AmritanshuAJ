@@ -1,7 +1,5 @@
-<!-- Intro Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Amritanshu+Jha;AI+%26+Deep+Learning+Engineer;Generative+AI+%7C+MLOps+%7C+Agentic+AI" alt="Typing SVG" />
-</p>
+<!-- Intro -->
+# 👨🏻‍💻 [Amritanshu Jha] [@AmritanshuAJ]([https://anuragsingh.dev](https://github.com/AmritanshuAJ))
 
 ---
 
