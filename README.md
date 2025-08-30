@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;AI+%26+GenAI+Developer;Agentic+AI+Researcher)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Machine+Learning+Engineer+%F0%9F%A7%A0;Deep+Learning+%26+AI+Researcher+%F0%9F%9A%80;Generative+AI+Developer+%E2%9C%A8;Agentic+AI+Systems+Builder+%F0%9F%A4%96)
 
 </div>
 
@@ -63,23 +63,23 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amritanshu-jha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
+<a href="#"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=amritanshu-jha&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&custom_title=Amritanshu's%20GitHub%20Stats"/></a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu-jha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amritanshu-jha&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9)
+<a href="#"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu-jha&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&custom_title=Languages%20&%20Technologies"/></a>
 
 </div>
 
-## 🏆 **Achievement Showcase**
+## 🔥 **Featured Projects**
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=amritanshu-jha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+<a href="https://github.com/amritanshu-jha/your-ml-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshu-jha&repo=your-ml-project&theme=midnight-purple&hide_border=true" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/amritanshu-jha/your-genai-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshu-jha&repo=your-genai-project&theme=midnight-purple&hide_border=true" />
+</a>
 
 </div>
 
@@ -105,14 +105,19 @@ class AmritanshuJha:
 
 <div align="center">
 
-### 💫 **Let's Connect & Collaborate**
+### 🌐 **Connect & Collaborate**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amritanshu-jha)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amritanshu_jha)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amritanshu-jha)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amritanshu_jha)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
+<br><br>
 
-*Building tomorrow's AI, today* ✨
+<img src="https://visitcount.itsvg.in/api?id=amritanshu-jha&label=Profile%20Views&color=6366F1&icon=5&pretty=true" />
+
+<br><br>
+
+*"Building intelligent systems that bridge the gap between data and decisions"* 
 
 </div>
